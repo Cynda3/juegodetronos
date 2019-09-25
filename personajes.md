@@ -6,3 +6,4 @@ Cersei Lannister
 Sansa Stark
 Jaime Lannister
 Brienne de Tarth
+Yo que se
