@@ -1,3 +1,3 @@
-temporada 1
-temporada 2
-temporada 3
+reino 1
+reino 2
+reino 3
